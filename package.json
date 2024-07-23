@@ -9,7 +9,7 @@
   "author": "Ivan Nesterov",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^10.1.2"
+    "inquirer": "^8.2.6"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
