@@ -8,10 +8,13 @@
   },
   "author": "Ivan Nesterov",
   "license": "ISC",
+  "overrides": { "eslint": "undefined" },
   "dependencies": {
     "inquirer": "^8.2.6"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.0.0"
   }
+  
 }
